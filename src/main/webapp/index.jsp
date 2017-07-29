@@ -9,10 +9,11 @@
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>ID CARD</title>
-        <link rel='stylesheet' href='webjars/materialize/0.97.3/dist/css/materialize.min.css'>
+        <link rel='stylesheet' href='webjars/Materialize/0.96.0/dist/css/materialize.min.css'>
         <link href="http://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
         <script type="text/javascript" src="webjars/jquery/2.1.4/jquery.min.js"></script>
-        <script type="text/javascript" src="webjars/materialize/0.97.3/dist/js/materialize.min.js"></script>
+        <script type="text/javascript" src="webjars/Materialize/0.96.0/dist/js/materialize.min.js"></script>
+        <meta name='viewport' content='width=device-width, initial-scale=1.0'/>
     </head>
     <body>
        <div class="row container z-depth-5">
